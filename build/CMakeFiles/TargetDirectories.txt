@@ -1,0 +1,3 @@
+C:/Users/bulat/c++ project/build/CMakeFiles/MyQtApp.dir
+C:/Users/bulat/c++ project/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/bulat/c++ project/build/CMakeFiles/ZERO_CHECK.dir
